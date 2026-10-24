@@ -1,5 +1,5 @@
 # 💫 About Me:
-I have been programming for 1 year, studying the Python language, and I want to delve deeper into machine learning and artificial intelligence.
+I have been programming for 3 year, studying the Python language, and I want to delve deeper into Network Engineer ,machine learning and artificial intelligence.
 
 
 # 💻 Tech Stack:
